@@ -30,7 +30,7 @@ O objetivo deste projeto é demonstrar como a IA pode ser usada de forma criativ
 
 ## 📚 Materiais
 
-- 🎧 **Áudio final:** [link_para_o_audio.mp3](#) *(adicione aqui quando publicar)*  
+- 🎧 **Áudio final:** [audio_capCut.mp3](./audio_capCut.MP3) 
 - 🖼️ **Capa do podcast:** incluída acima (`my3.png`)  
 - 💬 **Roteiro completo:** [`roteiro_podcast.md`](./roteiro_podcast.txt)  
 - 🎬 **Vídeo de apresentação:** [`video_podcast.mp4`](./video_podcast.mp4)
