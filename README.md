@@ -65,8 +65,11 @@ A tecnologia foi usada para dar vida à narração, combinando voz sintética, i
 **Paulo João Dongosse**  
 Estudante do 5º semestre de **Ciências da Computação** e **Análise e Desenvolvimento de Sistemas**, com foco em **dados** e **desenvolvimento de software**.
 
-📎 [GitHub](https://github.com/SeuUsuarioGitHub) | [LinkedIn](https://linkedin.com/in/seu-linkedin) | [E-mail](mailto:seuemail@exemplo.com)
 
 ---
 
 ⌨️ com 💜 por **Paulo João Dongosse**
+
+<p align="center">
+  <img src="./my5.png" alt="Paulo João Dongosse - Avatar" width="120" style="border-radius: 50%; margin-top: 10px;"/>
+</p>
