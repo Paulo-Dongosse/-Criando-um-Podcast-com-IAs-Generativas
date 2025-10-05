@@ -1,0 +1,44 @@
+# 🎙️ Roteiro do Podcast — Quem é Paulo João
+
+## Introdução
+Olá!  
+Meu nome é **Paulo João Dongosse**.  
+Sou estudante do **quinto semestre de Ciências da Computação** e **Análise e Desenvolvimento de Sistemas**, com grande interesse nas áreas de **dados** e **desenvolvimento de software**.
+
+---
+
+## Formação e Conhecimentos Técnicos
+Durante minha trajetória acadêmica, tive contato com diversas tecnologias, como **Python, Java, C#, HTML, SQL, FastAPI, Oracle** e **MySQL**, além de práticas de **modelagem de dados**, **diagramas UML** e **criação de procedures**.  
+
+Também venho explorando ferramentas de visualização como o **Power BI**, sempre buscando transformar informação em **conhecimento útil**.
+
+---
+
+## Projetos Práticos
+Tive a oportunidade de aplicar esses conhecimentos em projetos práticos, como a criação de um **dashboard para uma oficina mecânica**, utilizando **MySQL** e **Power BI**, que permitiu uma visão mais clara dos resultados do negócio.  
+
+E também no desenvolvimento de uma **API chamada WorkoutAPI**, feita em **FastAPI**, voltada para a gestão de **atletas e competições** — entre outros projetos disponíveis no meu **GitHub**.  
+
+Essas experiências reforçaram minha capacidade de **unir teoria e prática**, além de me motivarem a seguir **evoluindo**.
+
+---
+
+## Experiências Profissionais
+Minha trajetória profissional começou na **Kalunga**, onde **proporcionava atendimento excepcional aos clientes**, esclarecendo dúvidas sobre produtos e suas funcionalidades tanto presencialmente quanto online.  
+Auxiliava os clientes na escolha de produtos, promovendo uma **experiência de compra positiva** e garantindo **satisfação**.
+
+Depois, trabalhei na **GRB**, com a responsabilidade de **contatar clientes com pagamentos em atraso**, para negociar e regularizar suas pendências.  
+Propunha soluções de pagamento que atendessem às necessidades da empresa e do cliente, registrava e atualizava as negociações no sistema, e acompanhava os acordos para garantir a **quitação das dívidas**.  
+
+Essa experiência fortaleceu minha capacidade de **comunicação**, **negociação**, **resiliência**, **foco em metas** e **resolução de problemas**.
+
+---
+
+## Encerramento
+Atualmente, sigo me **aperfeiçoando continuamente**, buscando unir minha base técnica com uma **visão analítica e estratégica de dados** — sempre com o objetivo de **crescer e contribuir** com soluções que façam a diferença.
+
+---
+
+🎧 **Roteiro utilizado na gravação do episódio “Quem é Paulo João”.**  
+📅 **Criado em:** Outubro de 2025  
+📍 **Autor:** [Paulo João Dongosse](https://github.com/
