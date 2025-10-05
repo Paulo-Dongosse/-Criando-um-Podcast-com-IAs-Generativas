@@ -1,4 +1,6 @@
-![Capa do Podcast - Quem é Paulo João](./my3.png)
+<p align="center">
+  <img src="./my3.png" alt="Capa do Podcast - Quem é Paulo João" width="400" height="-200" style="object-fit: cover; border-radius: 10px;"/>
+</p>
 
 # 🎧 Projeto Podcast — Quem é Paulo João
 
